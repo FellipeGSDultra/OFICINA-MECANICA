@@ -64,4 +64,5 @@ Lista os nomes dos clientes que gastaram acima da média global da oficina.
 
 **Fellipe**  
 *Estudante de Tecnologia – Anhanguera Marte*
+
 *Programação em Banco de Dados - Nicolas Vogiatzis*
